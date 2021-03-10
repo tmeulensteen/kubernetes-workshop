@@ -27,7 +27,7 @@ App is an example 12 Factor application. During this workshop you will be workin
 * [askcarter/monolith](https://hub.docker.com/r/askcarter/monolith) - Monolith includes auth and hello services.
 * [askcarter/auth](https://hub.docker.com/r/askcarter/auth) - Auth microservice. Generates JWT tokens for authenticated users.
 * [askcarter/hello](https://hub.docker.com/r/askcarter/hello) - Hello microservice. Greets authenticated users.
-* [ngnix](https://hub.docker.com/_/nginx) - Frontend to the auth and hello services.
+* [nginx](https://hub.docker.com/_/nginx) - Frontend to the auth and hello services.
 
 ## Links
 
