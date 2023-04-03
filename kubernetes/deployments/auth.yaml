@@ -3,8 +3,7 @@ kind: Deployment
 metadata:
   name: auth
 spec:
-  replicas: 1
-    selector:
+  selector:
     matchLabels:
         app: auth
         track: stable
