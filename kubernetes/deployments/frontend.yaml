@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: "nginx:1.9.14"
+          image: "nginx:1.27.4"
           lifecycle:
             preStop:
               exec:
